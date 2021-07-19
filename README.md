@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="./image.svg" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <p align="left">Hi, my name is Ariclene I'm a studyng <strong>Computer Engineering</strong></p>
 <p align="left">
-  :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL.</strong>
+  :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL, linux</strong>
 </p>
 <p align="left">
   🌱 Now I’m currently learning React
