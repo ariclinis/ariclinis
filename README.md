@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./image.svg" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 
 <p align="left">
