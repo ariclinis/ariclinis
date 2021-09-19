@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL, linux</strong>
 </p>
 <p align="left">
-  🌱 Now I’m currently learning Reactjs
+  🌱 Now I’m currently learning Artificial Intelligence
 </p>
 <p align="left">
   💌 Find me elsewhere 🌍: ⤵️
