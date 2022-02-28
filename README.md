@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 <img src="./image.svg" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <p align="left">Hi, my name is Ariclene I'm a studyng <strong>Computer Engineering</strong></p>
+<p align="left>
+          <a href="https://github.com/ariclinis"></a>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=ariclinis&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+</p>
 <p align="left">
   :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL, linux</strong>
 </p>
