@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="left>
           <a href="https://github.com/ariclinis"></a>
           <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=ariclinis&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+          ![Ariclene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariclinis&show_icons=true&theme=transparent)
 </p>
 <p align="left">
   :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL, linux</strong>
