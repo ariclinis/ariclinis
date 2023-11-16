@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   :pill: Skills: <strong>HTML, CSS3, Javascript, Ruby on Rails, PHP, JAVA, SQL, linux</strong>
 </p>
 <p align="left">
-  🌱 I’m currently learning Artificial Intelligence
+  🌱 I’m currently learning Artificial Intelligence and TIBCO 
 </p>
 <p align="left">
   💌 Find me elsewhere 🌍: ⤵️
