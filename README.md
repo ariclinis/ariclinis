@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <a href="https://perfil.ao/cv/achimbili?locale=en">My Profile</a>
+  <a href="https://perfil.ao/cv/achimbili?locale=en">My Profile & Portfolio :)</a>
 </p>
