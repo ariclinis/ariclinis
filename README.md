@@ -40,8 +40,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/10344626"/>
   </a>
 </p>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ariclinis&theme=dark&hide_border=false)
 
 <p>
   <a href="https://perfil.ao/cv/achimbili?locale=en">My Profile & Portfolio :)</a>
